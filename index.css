@@ -1,0 +1,63 @@
+.background_color_blue_font_white {
+	background-color: paleturquoise !important;
+	color: white;
+}
+
+.background_color_azure{
+	background-color: azure;
+}
+
+.text_color_ivory{
+	color: ivory;
+}
+
+.body_text{
+	color: grey;
+	font-size: 12pt;
+}
+
+.header_text{
+	margin-top: 3%;
+	color: grey;
+	font-size: 20pt;
+}
+
+.twenty_point_top_margin{
+	margin-top: 3%;
+	font-size: 20pt;
+}
+
+.hide_it{
+	display: none;
+}
+
+#map {
+    width: 100%;
+    height: 25em;
+    /* Round the corners */
+    border-radius: 10px 10px 10px 10px;
+}
+
+.info_window{
+	margin: 0 auto;
+}
+
+.info_window_img{
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
+.affix {
+  top: 15;
+  width: 50%;
+}
+
+.affix-top {
+  width: 100%;
+}
+
+.affix-bottom {
+  bottom: 900;
+  width: 95%;
+  position: absolute;
+}
