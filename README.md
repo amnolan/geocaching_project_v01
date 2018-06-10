@@ -9,6 +9,10 @@ The results are paginated as sometimes it is possible to get thousands of result
 
 The app also uses responsive bootstrap and as a result allows a great mobile experience.
 
+![Geocache Mobile](https://github.com/amnolan/geocaching_project_v01/blob/master/geocache_mobile.jpeg)
+
+Here is an example of the application through a web browser.
+
 ![Start](https://github.com/amnolan/geocaching_project_v01/blob/master/start.png)
 
 Upon searching it will inform you of how many results came back and will create a pagination selector below.
