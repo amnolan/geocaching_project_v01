@@ -1,7 +1,7 @@
 # geocaching_project
 College project for geocache lists using flickr and maps apis. Leverages custom-built pagination and ajax methods.
 
-Essentially a user may input a coordinate and search for geocache locations near them. There is also the ability to filter based on difficulty and distance.
+Essentially a user may input a coordinate and search for geocache locations near them. There is also the ability to filter based on difficulty, distance and cache type.
 
 The application will then add pins to a floating map (the map follows as you scroll). When you click a pin, you will see a pop-up with twelve thumbnails from a flickr integration. By clicking the pin, it will also highlight the list item. Clicking a list item will also trigger the pin to pop up the image pane of the corresponding pin.
 
