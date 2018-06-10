@@ -28,3 +28,5 @@ The server side flickr call:
 ![Flickr](https://github.com/amnolan/geocaching_project_v01/blob/master/flickr.png)
 
 I also ensured to hide plenty of references to _The IT Crowd_ and _Silicon Valley_. Bighead at Hooli, you know what I'm talking about.
+
+![Bighead Working on the Roof 'Rest and Vest'](https://github.com/amnolan/geocaching_project_v01/blob/master/bighead.png)
