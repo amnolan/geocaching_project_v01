@@ -7,6 +7,8 @@ The application will then add pins to a floating map (the map follows as you scr
 
 The results are paginated as sometimes it is possible to get thousands of results. I handle this through SQL queries and by keeping track of which section of the list has been provided to the user.
 
+The app also uses responsive bootstrap and as a result allows a great mobile experience.
+
 ![Start](https://github.com/amnolan/geocaching_project_v01/blob/master/start.png)
 
 Upon searching it will inform you of how many results came back and will create a pagination selector below.
