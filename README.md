@@ -7,10 +7,6 @@ The application will then add pins to a floating map (the map follows as you scr
 
 The results are paginated as sometimes it is possible to get thousands of results. I handle this through SQL queries and by keeping track of which section of the list has been provided to the user.
 
-The app also uses responsive bootstrap and as a result allows a great mobile experience.
-
-![Geocache Mobile](https://github.com/amnolan/geocaching_project_v01/blob/master/geocache_mobile.jpeg)
-
 Here is an example of the application through a web browser.
 
 ![Start](https://github.com/amnolan/geocaching_project_v01/blob/master/start.png)
@@ -26,6 +22,10 @@ The pagination list.
 The server side flickr call:
 
 ![Flickr](https://github.com/amnolan/geocaching_project_v01/blob/master/flickr.png)
+
+The app also uses responsive bootstrap and as a result allows a great mobile experience.
+
+![Geocache Mobile](https://github.com/amnolan/geocaching_project_v01/blob/master/geocache_mobile.jpeg)
 
 I also ensured to hide plenty of references to _The IT Crowd_ and _Silicon Valley_. Bighead at Hooli, you know what I'm talking about.
 
